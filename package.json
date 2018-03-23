@@ -1,0 +1,31 @@
+{
+  "name": "renderhare",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thekidfrankensteinthrewinapond/renderhare.git"
+  },
+  "keywords": [
+    "server-side rendering",
+    "ssr"
+  ],
+  "author": "RenderHare",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thekidfrankensteinthrewinapond/renderhare/issues"
+  },
+  "homepage": "https://github.com/thekidfrankensteinthrewinapond/renderhare#readme",
+  "files": [
+    "index.js",
+    "extensions.js"
+  ],
+  "dependencies": {
+    "full-url": "^1.0.0",
+    "got": "^8.3.0"
+  }
+}
